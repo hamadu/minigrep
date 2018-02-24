@@ -1,0 +1,1 @@
+This repository is just made by following tutorial on [An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/stable/book/second-edition/ch12-00-an-io-project.html) from TRPL v2
